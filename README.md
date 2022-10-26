@@ -23,5 +23,5 @@
   <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="postgresql" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
- 
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="postgresql" width="40" height="40"/> 
 </p>
