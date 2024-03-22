@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Myraboh Ikechi</h1>
-<h3 align="left">A Passionate Android Native, IOS Native & Kotlin Multiplatform Developer.</h3>
+<h3 align="left">Android Native, IOS Native & Kotlin Multiplatform is cool to work with</h3>
 ---
 
 ### Connect with me:  
